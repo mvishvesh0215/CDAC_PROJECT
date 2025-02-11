@@ -1,0 +1,29 @@
+
+.contact{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+.bg{
+    z-index: 0;
+    opacity:20px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    margin: 0vh 0px;
+    height: 75vh;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+.rightContact{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+.contactImage{
+    height: 75vh;
+    width: 40vw;
+}

@@ -1,0 +1,48 @@
+ /* Sidebar */
+ .sidebar {
+    height: 100vh;
+    position: fixed;
+    width: 250px;
+    transition: all 0.3s;
+  }
+  
+  .sidebar .nav-link {
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .sidebar .nav-link:hover {
+    background-color: #c1c7ce;
+  }
+  
+  /* Responsive Sidebar */
+  @media (max-width: 768px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+  }
+  
+  /* Main Content */
+  main {
+    margin-left: 250px;
+  }
+  
+  @media (max-width: 768px) {
+    main {
+      margin-left: 0;
+    }
+  }
+  
+  /* Cards */
+  .card {
+    border-radius: 10px;
+    transition: 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(86, 90, 131, 0.103);
+  }
+  

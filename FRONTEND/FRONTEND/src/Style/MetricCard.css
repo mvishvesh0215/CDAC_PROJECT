@@ -1,0 +1,48 @@
+.metric-card-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem; /* 4 * 0.25rem */
+    padding: 1.5rem;
+  }
+  
+  .metric-icon-container {
+    border-radius: 50%;
+    background-color: rgba(37, 99, 235, 0.1); /* bg-primary/10 */
+    padding: 1rem;
+  }
+  
+  .metric-icon {
+    height: 1.5rem; /* 6 * 0.25rem */
+    width: 1.5rem;
+    color: #2563eb; /* primary */
+  }
+  
+  .metric-text {
+    font-size: 0.875rem; /* text-sm */
+    color: #6b7280; /* text-muted-foreground */
+  }
+  
+  .metric-value {
+    font-size: 1.5rem; /* text-2xl */
+    font-weight: 600;
+  }
+  
+  .metric-change-up {
+    font-size: 0.875rem; /* text-sm */
+    color: #10b981; /* text-green-500 */
+  }
+  
+  .metric-change-down {
+    font-size: 0.875rem; /* text-sm */
+    color: #ef4444; /* text-red-500 */
+  }
+  
+  .metric-avatars {
+    display: flex;
+    margin-left: -0.5rem;
+  }
+  
+  .metric-avatar {
+    border: 2px solid white;
+  }
+  

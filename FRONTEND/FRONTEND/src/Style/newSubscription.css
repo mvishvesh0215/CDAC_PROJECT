@@ -1,0 +1,67 @@
+/* Ensure the component does not get hidden behind the sidebar */
+.container-fluid {
+    display: flex;
+    background-image: url('../gas\ image.jpg');
+    background-size: cover;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    width: 80vw;
+    margin-left: 250px; /* Adjust based on your sidebar width */
+    text-align: center;
+  }
+  
+  /* Heading styling */
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Subscription form container */
+  .subsItem {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 50%; /* Adjust width as needed */
+    padding: 20px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* Individual input fields */
+  .childItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+  }
+  
+  /* Label styling */
+  .childItem label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  /* Input field styling */
+  .childItem input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Ensure responsiveness */
+  @media (max-width: 768px) {
+    .container-fluid {
+      margin-left: 0; /* Remove margin on smaller screens */
+    }
+  
+    .subsItem {
+      width: 80%;
+    }
+  }
+  

@@ -1,0 +1,27 @@
+/* VendorDashboard.css */
+.vendor-dashboard {
+    min-height: 100vh;
+    background-color: #f9fafb; /* gray-50 */
+    display: flex;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding-left: 1rem; /* 64px = 16rem */
+  }
+  
+  .content-wrapper {
+    padding: 1.5rem;
+  }
+  
+  .metrics-grid {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .main-content {
+      padding-left: 0; /* Sidebar collapses on smaller screens */
+    }
+  }
+  

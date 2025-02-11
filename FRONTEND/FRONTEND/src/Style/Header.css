@@ -1,0 +1,27 @@
+.header{
+    display:flex;
+    flex-direction:row;
+    box-shadow: 1px 1px 10px gray;
+    margin: 5px 8px;
+}
+.subItems{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logoImg{
+    margin:0px 5px 0px;
+    height: 60px;
+    padding: 10px
+}
+/* .logo>img{
+    height: 60px;
+    width: 300px;
+} */

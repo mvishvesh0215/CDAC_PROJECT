@@ -1,0 +1,32 @@
+.customer-table-container {
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .customer-table-header {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  .customer-table-subtitle {
+    font-size: 0.875rem;
+    color: #6b7280; /* Tailwind's muted-foreground */
+  }
+  
+  .search-input {
+    width: 16rem;
+  }
+  
+  .sort-select {
+    width: 10rem;
+  }
+  
+  .status-button {
+    border-radius: 9999px;
+    padding: 0.25rem 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+  
