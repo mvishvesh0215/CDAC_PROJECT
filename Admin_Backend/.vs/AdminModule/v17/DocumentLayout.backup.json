@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\adminmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\adminmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\adminmodule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\adminmodule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\dal\\daladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\dal\\daladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\views\\admin\\admin.cshtml||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\views\\admin\\admin.cshtml||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\wwwroot\\css\\admindashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\wwwroot\\css\\admindashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\views\\admin\\vendordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\views\\admin\\vendordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\views\\home\\admin.js||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\views\\home\\admin.js||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|c:\\users\\palak\\onedrive\\desktop\\gaspipeline\\adminmodule\\adminmodule\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A290AE7-3700-4A72-A0B9-807900E036BB}|AdminModule\\AdminModule.csproj|solutionrelative:adminmodule\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdminModule\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminModule",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\AdminModule.csproj",
+              "RelativeDocumentMoniker": "AdminModule\\AdminModule.csproj",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\AdminModule.csproj",
+              "RelativeToolTip": "AdminModule\\AdminModule.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T12:57:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendorDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\VendorDetails.cshtml",
+              "RelativeDocumentMoniker": "AdminModule\\Views\\Admin\\VendorDetails.cshtml",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\VendorDetails.cshtml",
+              "RelativeToolTip": "AdminModule\\Views\\Admin\\VendorDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:55:24.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "AdminModule\\Views\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "AdminModule\\Views\\Admin\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:44:06.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "AdminModule\\Views\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "AdminModule\\Views\\Admin\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:34:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.js",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Home\\Admin.js",
+              "RelativeDocumentMoniker": "AdminModule\\Views\\Home\\Admin.js",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Home\\Admin.js",
+              "RelativeToolTip": "AdminModule\\Views\\Home\\Admin.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-05T11:15:39.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AdminModule\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AdminModule\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-05T11:07:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.css",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\wwwroot\\css\\AdminDashboard.css",
+              "RelativeDocumentMoniker": "AdminModule\\wwwroot\\css\\AdminDashboard.css",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\wwwroot\\css\\AdminDashboard.css",
+              "RelativeToolTip": "AdminModule\\wwwroot\\css\\AdminDashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-05T11:06:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminModule\\appsettings.json",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\appsettings.json",
+              "RelativeToolTip": "AdminModule\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T11:05:37.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DalAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\DAL\\DalAdmin.cs",
+              "RelativeDocumentMoniker": "AdminModule\\DAL\\DalAdmin.cs",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\DAL\\DalAdmin.cs",
+              "RelativeToolTip": "AdminModule\\DAL\\DalAdmin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADgvy4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:37:19.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminModule.csproj",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\AdminModule.csproj",
+              "RelativeDocumentMoniker": "AdminModule\\AdminModule.csproj",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\AdminModule.csproj",
+              "RelativeToolTip": "AdminModule\\AdminModule.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T05:22:43.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AdminModule\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Models\\User.cs",
+              "RelativeToolTip": "AdminModule\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:22:24.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Program.cs",
+              "RelativeDocumentMoniker": "AdminModule\\Program.cs",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Program.cs",
+              "RelativeToolTip": "AdminModule\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:39:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminModule\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminModule\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:34:29.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminModule\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\palak\\OneDrive\\Desktop\\gaspipeline\\AdminModule\\AdminModule\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AdminModule\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:32:47.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
